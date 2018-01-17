@@ -1,0 +1,1 @@
+cmd_/home/odroid/usercycle/getpid.ko := ld -EL -r  -T /home/odroid/kernel_cycle_timer/scripts/module-common.lds --build-id  -o /home/odroid/usercycle/getpid.ko /home/odroid/usercycle/getpid.o /home/odroid/usercycle/getpid.mod.o

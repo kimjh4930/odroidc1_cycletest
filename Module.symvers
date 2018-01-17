@@ -1,0 +1,3 @@
+0x00000000	get_PID	/home/odroid/usercycle/getpid	EXPORT_SYMBOL
+0x00000000	get_cycle64	/home/odroid/usercycle/cpucycle	EXPORT_SYMBOL
+0x00000000	set_PID	/home/odroid/usercycle/getpid	EXPORT_SYMBOL

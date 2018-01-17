@@ -1,0 +1,3 @@
+kernel//home/odroid/usercycle/cpucycle.ko
+kernel//home/odroid/usercycle/getpid.ko
+kernel//home/odroid/usercycle/monitor.ko
